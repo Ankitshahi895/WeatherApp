@@ -23,3 +23,10 @@ A simple and lightweight Spring Boot application that fetches **real-time weathe
 ---
 
 
+
+<img width="959" alt="Image" src="https://github.com/user-attachments/assets/c1e2f0ee-4336-44f4-b735-2cbb6d4f44a0" />
+
+<img width="959" alt="Image" src="https://github.com/user-attachments/assets/63e6031c-4b1b-421c-b97d-e787eb02af26" />
+
+<img width="401" alt="Image" src="https://github.com/user-attachments/assets/f757cbfd-e40f-426a-b1c9-5a5d07dfe7aa" />
+<img width="335" alt="Image" src="https://github.com/user-attachments/assets/c9dddf4a-378c-4f50-8a68-e383a54c52a3" />
